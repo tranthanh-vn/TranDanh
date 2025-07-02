@@ -1,3 +1,4 @@
+# TRẦN THÀNH DANH Save Instance
 # Trần Thành Danh
 
 ```lua
@@ -9,9 +10,3 @@ local synsaveinstance = loadstring(game:HttpGet(Params.RepoURL .. Params.SSI .. 
 local Options = {}
 synsaveinstance(Options)
 ```
-
-# TRẦN THÀNH DANH Save Instance
-
-Hay gọi tắt là USSI, một dự án nhằm hồi sinh chức năng saveinstance của Synapse X.<br />
-Lý do: Nhiều Executor hiện tại hoạt động rất tệ khi liên quan đến việc lưu lại Instance của game để chỉnh sửa.
-
