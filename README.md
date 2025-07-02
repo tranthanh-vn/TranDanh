@@ -48,8 +48,6 @@ Reason: Many Executors fail miserably at providing good user experience when it 
   - ! Check out [Rojo Rbx Dom Binary] & [Roblox Format Specifications Binary] for more documentation about the Binary File Format!
   - ! Also see [buffer], [bit32] libraries as well as [pack]/[unpack] from the [string] library for more information on how you can implement something like this!
   - ! [Rbx-Binary-Format]
-- [x] Add custom decompiler in case executor doesn't have one but has getscriptbytecode (UMF)
-  - <https://github.com/TheSeaweedMonster/Lua-Scripts/blob/main/decompile.lua>
 - [x] Add custom timeout logic for decompiler instead of relying on executor to have one
   - Using threads & coroutines.
 - [x] Add `continue` where needed
