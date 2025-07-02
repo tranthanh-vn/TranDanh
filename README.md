@@ -3,7 +3,7 @@
 </p>
 
 
-# Loadstring
+# Trần Thành Danh
 
 ```lua
 local Params = {
@@ -39,10 +39,6 @@ Reason: Many Executors fail miserably at providing good user experience when it 
 <br />
 [![ko-fi](https://user-images.githubusercontent.com/95628489/231759262-25661006-b7ca-4967-a79d-2b465cd9575a.png)](https://ko-fi.com/M4M1JNH5G "KO-FI QR-CODE")
 
-# DISCORD SERVER:<br />
-
-<https://discord.com/invite/wx4ThpAsmw> **/** <https://discord.gg/wx4ThpAsmw><br />
-[<img src="https://discordapp.com/api/guilds/1022465460517740654/widget.png?style=banner2" alt="Our Official Discord Server!"></img>](https://discord.com/invite/wx4ThpAsmw)<br />
 
 # TO-DOs
 
